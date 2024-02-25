@@ -4,10 +4,3 @@ openai
 python-dotenv
 streamlit
 streamlit_chat
-langchain-community
-azure-search
-azure-search-documents
-tiktoken
-azure-identity
-azure-storage-blob
-unstructured
