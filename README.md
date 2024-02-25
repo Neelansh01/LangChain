@@ -46,3 +46,10 @@ To get started with the LangChain Demo Application, first, ensure that the neces
 <img width="674" alt="image" src="https://github.com/Neelansh01/LangChain/assets/39853942/401a234a-d5fc-40d3-b117-725fc0fb70fb">
 
 We see the chat not only answers answers correctly but also understands intentions and human typos to provide correct answers.
+
+
+
+# AWS Resources Rquired (for reference)
+
+<img width="763" alt="image" src="https://github.com/Neelansh01/LangChain/assets/39853942/3ef874e7-8076-4508-844e-2e5657a41f47">
+
