@@ -1,7 +1,7 @@
 # LangChain
-# LangChain Demo Application
+# Hunnichen Chat Bot
 
-A web application called LangChain Demo, which uses Streamlit, offers an interactive Q&A session regarding a fictional creature known as "huninchen". It uses OpenAI and Azure services to deliver a seamless, intelligent, and responsive experience.
+A web application called Hunnichen Chat Bot, which uses Streamlit, offers an interactive Q&A session regarding a fictional creature known as "huninchen". It uses OpenAI and Azure services to deliver a seamless, intelligent, and responsive experience.
 
 
 
